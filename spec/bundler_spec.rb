@@ -1,3 +1,4 @@
+require 'rspec'
 describe "Bundler" do
 
   describe "Gemfile" do
